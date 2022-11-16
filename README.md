@@ -29,6 +29,14 @@ Activiti6是由Alfresco软件在2010年5月17日发布的业务流程管理（BP
 
 工作流流程设计及部署—新建流程
 ![输入图片说明](static/image.png)
+工作流流程设计及部署—录入流程基本信息
+![输入图片说明](static/baseinfoimage.png)
+工作流流程设计及部署----设计流程
+![输入图片说明](static/designimage.png)
+工作流流程设计及部署----设计流程
+![输入图片说明](static/design2image.png)
+工作流流程设计及部署----流程属性
+![输入图片说明](static/processpropimage.png)
 #### 参与贡献
 
 1.  Fork 本仓库
