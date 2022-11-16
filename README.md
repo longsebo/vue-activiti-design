@@ -29,14 +29,41 @@ Activiti6是由Alfresco软件在2010年5月17日发布的业务流程管理（BP
 
 工作流流程设计及部署—新建流程
 ![输入图片说明](static/image.png)
+
 工作流流程设计及部署—录入流程基本信息
 ![输入图片说明](static/baseinfoimage.png)
+
 工作流流程设计及部署----设计流程
 ![输入图片说明](static/designimage.png)
+
 工作流流程设计及部署----设计流程
 ![输入图片说明](static/design2image.png)
+
 工作流流程设计及部署----流程属性
 ![输入图片说明](static/processpropimage.png)
+
+工作流流程设计及部署--提交服务
+定义工作流节点调用外部系统接口， 以完成工作流关联的业务处理。
+![输入图片说明](static/commitserviceimage.png)
+
+工作流流程设计及部署--提交服务
+点击新增按钮，出现如下图：
+参数页签，用来定义请求参数一个些选项
+![输入图片说明](static/commitserviceconfimage.png)
+
+工作流流程设计及部署--提交服务
+点击Body Data，出现如下图：
+![输入图片说明](static/git/commitservice3image.png)
+
+工作流流程设计及部署--提交服务
+点击请求头，出现如下图：
+请求头用来定义请求时，头部附带信息。一般情况下，不用定义
+![输入图片说明](static/git/commitservice4image.png)
+
+工作流流程设计及部署--提交服务
+点击应答页签，出现如下图：
+它定义了应答一些选项，方便框架进行判断处理。
+![输入图片说明](static/git/commitservice5image.png)
 #### 参与贡献
 
 1.  Fork 本仓库
