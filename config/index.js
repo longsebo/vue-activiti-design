@@ -12,7 +12,7 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       "/process": {
-          target: "http://127.0.0.1:8084/",
+          target: "http://jz-fw.com:8084/",
           secure: false,
           changeOrigin: true,
           pathRewrite: {
