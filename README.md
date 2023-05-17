@@ -109,6 +109,8 @@ Activiti6是由Alfresco软件在2010年5月17日发布的业务流程管理（BP
 工作流设计完毕即可部署，如下图：
 
 ![输入图片说明](static/git/workflowdeployimage.png)
+#### 运行环境
+ 该项目基于vue2.0开发的，建议使用node 12.22.10版本运行。以免发生各种错误，多谢！
 #### 参与贡献
 
 1.  Fork 本仓库
