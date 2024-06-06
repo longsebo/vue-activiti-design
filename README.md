@@ -115,6 +115,7 @@ lita2lz
 ![输入图片说明](static/git/workflowdeployimage.png)
 #### 运行环境
  该项目基于vue2.0开发的，建议使用node 12.22.10版本运行。以免发生各种错误，多谢！
+ 对应后台：https://gitee.com/longsebo/act6.git
 #### 参与贡献
 
 1.  Fork 本仓库
